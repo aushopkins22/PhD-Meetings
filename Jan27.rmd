@@ -1,0 +1,56 @@
+---
+title: "Committee and Course Discussion"
+author: "Austin Hopkins"
+date: "1/27/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+# Committee Members 
+
+## Currently on board
+
+**Big Jim aka slim Jim aka Boss**
+  
+**Daren Harmel**
+
+
+## Lets add these *Folks* 
+
+[Matt Ross ESS Data science guy](https://www.nrel.colostate.edu/investigator/matt-ross-homepage)
+
+[Nathan Mueller (SOCR Data science guy)](https://www.bing.com/search?q=nathan+mueller+csu&cvid=fbc9c41cfa6648a9879b78db958effde&aqs=edge.0.69i59j1001i8i1101j0l5j69i60l2j1001i8i1101.3928j0j4&FORM=ANAB01&PC=U531)
+
+[**Sangmi Lee Pallickara** (CS Big data Boss, Teaches CS 535)](https://www.cs.colostate.edu/~sangmi/)
+
+**Bruce Vandenburg** (We may not need or want him but I’m throwing his name in here because i know hes associated heavily with AgCROS and I just don’t want to forget to make this connection. 
+
+**Steven Fonte** (agroecosystem ecology)
+
+**Francesca Cortufra** (Soil Ecology, She might be too focused in on a niche topic but I like the use of predictive modeling). 
+                  
+
+
+  
+
+# Potential Courses to take 
+
+SOCR 425 Internet of ag things ( 2: spring)
+ESS 575 Models for ecological data (4: spring)
+ESS 580 A8/a9 Env data science applications: food and ag/water resources (2/2: Spring)
+ESS 650 edge effects, place, environment, embodiemnt (3: spring even)
+Ess 655 multivariate analysis for community ecology (2: fall even years) 
+ESS 660 biogeochemical cycling in ecosystems (3 Spring)
+DSCI 445 statistical machine learning ( 3 fall)
+
+
+
+
+
+
