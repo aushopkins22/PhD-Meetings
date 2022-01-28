@@ -41,13 +41,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Potential Courses to take 
 
-SOCR 425 Internet of ag things ( 2: spring)
-ESS 575 Models for ecological data (4: spring)
-ESS 580 A8/a9 Env data science applications: food and ag/water resources (2/2: Spring)
-ESS 650 edge effects, place, environment, embodiemnt (3: spring even)
-Ess 655 multivariate analysis for community ecology (2: fall even years) 
-ESS 660 biogeochemical cycling in ecosystems (3 Spring)
-DSCI 445 statistical machine learning ( 3 fall)
+**SOCR 425** Internet of ag things ( 2: spring)
+**ESS 575** Models for ecological data (4: spring)
+**ESS 580 A8/A9** Env data science applications: food and ag/water resources (2/2: Spring)
+**ESS 650** edge effects, place, environment, embodiemnt (3: spring even)
+**ESS 655** multivariate analysis for community ecology (2: fall even years) 
+**ESS 660** biogeochemical cycling in ecosystems (3 Spring)
+**DSCI 445** statistical machine learning ( 3 fall)
 
 
 
